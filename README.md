@@ -1,1 +1,2 @@
 # skincancerwithCNN
+Summary and Motivation
